@@ -14,3 +14,5 @@ Notes sur la v2.2:
 Documentation Synology:
 https://global.download.synology.com/download/Document/Software/DeveloperGuide/Package/DownloadStation/All/enu/Developer_Guide_to_File_Hosting_Module.pdf
 
+Pour constituer le fichier .host à intégrer dans Download Station du Nas SYNOLOGY il faut compresser les 2 fichiers INFO et UptoboxCom.php (c'est dans la doc):
+```tar zcf UptoboxCom-2-2.host INFO UptoboxCom.php```
