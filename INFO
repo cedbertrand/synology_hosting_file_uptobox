@@ -1,0 +1,10 @@
+{
+	"name": "UptoboxCom",
+	"hostprefix": "uptobox.com,uptobox.eu",
+	"displayname": "Uptobox",
+	"version": "2.2",
+	"authentication": "yes",
+	"module": "UptoboxCom.php",
+	"class": "SynoFileHostingUptobox",
+	"description": "Free or premium account"
+}
