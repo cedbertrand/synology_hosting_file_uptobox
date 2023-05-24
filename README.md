@@ -23,4 +23,5 @@ https://global.download.synology.com/download/Document/Software/DeveloperGuide/P
 Vous n'avez besoin que du fichier .host, en effet, il contient lui même les 2 autres fichiers (INFO et PHP). Mais je trouve cela plus pratique d'avoir les fichiers sources à disposition directe dans github :).
 
 Si vous modifiez les fichiers sources (INFO et UptoboxCom.php), pour reconstituer le fichier .host à intégrer dans Download Station du Nas SYNOLOGY il faut compresser les 2 fichiers INFO et UptoboxCom.php comme suit (c'est dans la doc):
+
 ```tar zcf UptoboxCom-2-2.host INFO UptoboxCom.php```
