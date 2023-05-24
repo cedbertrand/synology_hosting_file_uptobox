@@ -17,7 +17,7 @@ Notes sur la v2.2:
 - Modification des URLs utilisées pour les appels API Uptobox
 - Ajout de quelques prints en mode débug
 
-Documentation Synology:
+Documentation Synology sur les fichiers host à intégrer dans Download Station:
 https://global.download.synology.com/download/Document/Software/DeveloperGuide/Package/DownloadStation/All/enu/Developer_Guide_to_File_Hosting_Module.pdf
 
 Vous n'avez besoin que du fichier .host, en effet, il contient lui même les 2 autres fichiers (INFO et PHP). Mais je trouve cela plus pratique d'avoir les fichiers sources à disposition directe dans github :).
