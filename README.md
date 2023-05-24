@@ -17,6 +17,9 @@ Notes sur la v2.2:
 - Modification des URLs utilisées pour les appels API Uptobox
 - Ajout de quelques prints en mode débug
 
+Documentation de l'API Uptobox:
+https://docs.uptobox.com/#introduction
+
 Documentation Synology sur les fichiers host à intégrer dans Download Station:
 https://global.download.synology.com/download/Document/Software/DeveloperGuide/Package/DownloadStation/All/enu/Developer_Guide_to_File_Hosting_Module.pdf
 
